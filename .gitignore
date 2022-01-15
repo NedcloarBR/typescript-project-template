@@ -1,0 +1,9 @@
+# Yarn
+.yarn/
+yarn.lock
+
+# IDE
+vscode/
+
+# Folders
+node_modules/

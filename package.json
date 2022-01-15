@@ -1,0 +1,32 @@
+{
+  "name": "ts-base-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": {
+    "name": "NedcloarBR",
+    "email": "nedcloar1@hotmail.com",
+    "url": "https://github.com/NedcloarBR"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NedcloarBR/ts-base-project"
+  },
+  "bugs": {
+    "url": "https://github.com/NedcloarBR/ts-base-project/issues"
+  },
+  "homepage": "https://github.com/NedcloarBR/ts-base-project#readme",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "packageManager": "yarn@3.1.1",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    
+  }
+}
